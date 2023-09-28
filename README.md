@@ -20,3 +20,13 @@ The columns are:
 ``Fare``: Passenger fare.    
 ``Cabin``: Cabin number.        
 ``Embarked``: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)       
+
+## EXPLORATORY DATA ANALYSIS 
+
+
+AUTHOR:         
+marwa Osman: marwaosman9975@gmail.com    
+
+👉 LinkedIn:  https://www.linkedin.com/in/marwa-osman-00190b222/
+
+👉 GitHub:  https://github.com/marwa9975
