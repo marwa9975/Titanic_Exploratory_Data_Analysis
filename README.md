@@ -22,7 +22,27 @@ The columns are:
 ``Embarked``: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)       
 
 ## EXPLORATORY DATA ANALYSIS 
+### Univariate Analysis
+Univariate analysis is a data analysis technique that focuses on examining and describing the characteristics and distribution of a single variable in a dataset. In this project, I performed univariate analysis on various variables in the Titanic dataset, including:
 
+* Histograms for age distribution.
+* Bar plots for passenger class distribution.
+* Pie chart for survival rate.
+
+### Bivariate Analysis
+Bivariate analysis explores relationships between two variables in the dataset. In this project,I  investigate relationships such as:
+
+* Scatter plots for age vs. fare.
+* Bar plots comparing the number of survivors by passenger class.
+* Box plots comparing fares by passenger class.
+* Correlation heatmap between age and fare
+### Multivariate Analysis
+Multivariate analysis extends the exploration to multiple variables simultaneously.I used techniques like parallel coordinates plots to visualize relationships between multiple variables and survival.  
+## Insights and Conclusions
+* $59.4$ % of people did not survive while $40.6$ % percent survived.
+*  There is a relatively smaller number of children (around 0-10 years old) and elderly passengers (above 60 years old) on the Titanic
+* Passengers in Class 1 had a higher chance of survival compared to those in Class 2 and Class 3. This suggests that the passenger class might have influenced the survival rate
+* Age vs. Survived: there might be a slight concentration of younger survivors.
 
 AUTHOR:         
 marwa Osman: marwaosman9975@gmail.com    
