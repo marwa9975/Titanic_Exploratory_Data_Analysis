@@ -44,9 +44,9 @@ Multivariate analysis extends the exploration to multiple variables simultaneous
 * Passengers in Class 1 had a higher chance of survival compared to those in Class 2 and Class 3. This suggests that the passenger class might have influenced the survival rate
 * Age vs. Survived: there might be a slight concentration of younger survivors.
 
-AUTHOR:         
+AUTHOR:          
 marwa Osman: marwaosman9975@gmail.com    
 
-👉 LinkedIn:  https://www.linkedin.com/in/marwa-osman-00190b222/
+👉 [LinkedIn](https://www.linkedin.com/in/marwa-osman-00190b222/)
 
-👉 GitHub:  https://github.com/marwa9975
+👉 [GitHub](https://github.com/marwa9975)
